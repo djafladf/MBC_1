@@ -1,0 +1,36 @@
+{
+    "version": 1,
+    "name": "DTW",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "785f0fa8-7876-40dc-96a6-32eb14251512",
+            "actions": [
+                {
+                    "name": "Start",
+                    "type": "Button",
+                    "id": "5d752979-2b8e-4dab-b405-bfdca9394f7c",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "43a81b52-adc5-4dc5-a0df-0a9f5af78595",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
